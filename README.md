@@ -1,3 +1,11 @@
+Can you guess the country from the flag?
+
+A country's flag is made up of symbols, colours and sometimes phrases that represent its identity or character.
+
+And don't worry if you get some answers wrong, you'll learn a lot along the way (and you can always take the quiz again)!
+
+you can download it on: https://play.google.com/store/apps/details?id=com.gamefactory.quiz_app
+
 Privacy Policy
 GameFactory TM built the Flags Quiz app as a Commercial app. This SERVICE is provided by GameFactory TM and is intended for use as is.
 
